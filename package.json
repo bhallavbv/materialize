@@ -1,0 +1,23 @@
+{
+  "name": "materialize",
+  "version": "1.0.0",
+  "description": "a website using materialize css",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhallavbv/materialize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhallavbv/materialize/issues"
+  },
+  "homepage": "https://bhallavbv.github.io/materialize",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
